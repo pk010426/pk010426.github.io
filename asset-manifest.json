@@ -1,33 +1,26 @@
 {
   "files": {
-    "main.js": "/static/js/main.eff0da92.chunk.js",
-    "main.js.map": "/static/js/main.eff0da92.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.67f08e41.js",
-    "runtime-main.js.map": "/static/js/runtime-main.67f08e41.js.map",
-    "static/css/2.efd76792.chunk.css": "/static/css/2.efd76792.chunk.css",
-    "static/js/2.880b61ce.chunk.js": "/static/js/2.880b61ce.chunk.js",
-    "static/js/2.880b61ce.chunk.js.map": "/static/js/2.880b61ce.chunk.js.map",
+    "main.css": "/static/css/main.061cc75a.css",
+    "main.js": "/static/js/main.1b646277.js",
+    "static/media/cavinimg.jpg": "/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
+    "static/media/pkTitle.png": "/static/media/pkTitle.55941b808edd85f15918.png",
+    "static/media/utracker.jpg": "/static/media/utracker.be1fe64a60e6c8ad2a2f.jpg",
+    "static/media/greenctg.jpg": "/static/media/greenctg.e51b3bbd67082da93f16.jpg",
+    "static/media/about-sec-img.png": "/static/media/about-sec-img.4259a85ee46562653c0c.png",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/cointracker.jpg": "/static/media/cointracker.8da9e0cd4402156b905b.jpg",
+    "static/media/about-page-img.png": "/static/media/about-page-img.9c8789a0c66a86d475ce.png",
+    "static/media/RobotoMono-Regular.ttf": "/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/projectImg.png": "/static/media/projectImg.771236e1a97e2201a189.png",
     "index.html": "/index.html",
-    "static/css/2.efd76792.chunk.css.map": "/static/css/2.efd76792.chunk.css.map",
-    "static/js/2.880b61ce.chunk.js.LICENSE.txt": "/static/js/2.880b61ce.chunk.js.LICENSE.txt",
-    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
-    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
-    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
-    "static/media/about-page-img.9c8789a0.png": "/static/media/about-page-img.9c8789a0.png",
-    "static/media/about-sec-img.dc869837.png": "/static/media/about-sec-img.dc869837.png",
-    "static/media/cavinimg.77adeaa3.jpg": "/static/media/cavinimg.77adeaa3.jpg",
-    "static/media/cointracker.8da9e0cd.jpg": "/static/media/cointracker.8da9e0cd.jpg",
-    "static/media/greenctg.e51b3bbd.jpg": "/static/media/greenctg.e51b3bbd.jpg",
-    "static/media/hero.67448392.png": "/static/media/hero.67448392.png",
-    "static/media/projectImg.771236e1.png": "/static/media/projectImg.771236e1.png",
-    "static/media/scroll-down-arrow.b013ca45.svg": "/static/media/scroll-down-arrow.b013ca45.svg",
-    "static/media/social-media-arrow.f5e093ce.svg": "/static/media/social-media-arrow.f5e093ce.svg",
-    "static/media/utracker.be1fe64a.jpg": "/static/media/utracker.be1fe64a.jpg"
+    "static/media/scroll-down-arrow.svg": "/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
+    "static/media/social-media-arrow.svg": "/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
+    "main.061cc75a.css.map": "/static/css/main.061cc75a.css.map",
+    "main.1b646277.js.map": "/static/js/main.1b646277.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.67f08e41.js",
-    "static/css/2.efd76792.chunk.css",
-    "static/js/2.880b61ce.chunk.js",
-    "static/js/main.eff0da92.chunk.js"
+    "static/css/main.061cc75a.css",
+    "static/js/main.1b646277.js"
   ]
 }
