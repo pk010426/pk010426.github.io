@@ -16,6 +16,3 @@
 ### 010-3794-4329
 ### puini1234@naver.com
 ---
-
-
-![myFace b956772b92ff1d224e99](https://github.com/pk010426/pk010426.github.io/assets/127279305/69d5f370-4886-4b1c-9e8c-534ba5e3d23c)
